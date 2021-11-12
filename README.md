@@ -1,2 +1,2 @@
 # test.learning
-I want learn how to use github.
+This is a repsitory for djing1111's test.
